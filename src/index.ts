@@ -1,6 +1,6 @@
 import * as express from "express";
-import routes from "./src/routes/routes";
-import crud from "./src/routes/crud"
+import routes from "./routes/routes";
+import crud from "./routes/crud"
 
 
 const app = express();
