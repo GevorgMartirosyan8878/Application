@@ -1,9 +1,4 @@
 localhost.host = test
 localhost.port = test
 localhost.node_env = test
-
-// localhost = {
-    // "host": "test",
-    // "port": "test",
-    // "node_env": "test"
-// }
+other = test

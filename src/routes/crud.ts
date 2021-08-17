@@ -1,5 +1,5 @@
 import * as express from "express";
-import crudControllers from "../../controllers/crudControllers"
+import crudControllers from "../controllers/crudControllers"
 
 const router = express.Router();
 
